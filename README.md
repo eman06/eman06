@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently pursuing a BS in Computer Science from FAST-NUCES. I’m passionate about Machine Learning and Artificial Intelligence, and I love exploring how intelligent systems can solve real-world problems.
+Pursuing a Bachelors in CS degree from FAST NUCES.
+Open to collaborations on Machine Learning projects.
 
 
 ## 🌐 Socials:
