@@ -1,5 +1,5 @@
 # 💫 About Me:
-Pursuing a Bachelors in CS degree from FAST NUCES.
+Pursuing a Bachelors in CS.
 Open to collaborations on Machine Learning projects.
 
 
