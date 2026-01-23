@@ -1,8 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Eman! 
-🎓 Pursuing a Bachelors in Computer Science.
-🚀 Currently deep-diving into **Computer Vision** and **Human-Computer Interaction**.
-🤝 Open to collaborations on Machine Learning and AI-driven projects.
+Hi, this is Eman.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-ihsan-866b23322/) 
