@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I am a 6th-semester Computer Science student focused on the intersection of Computer Vision and Artificial Intelligence. I enjoy building efficient solutions and am eager to further explore machine learning and cloud infrastructures. My foundation in mathematical computing drives my interest in developing intelligent systems.
+I am a 6th-semester Computer Science student focused on Computer Vision, Agentic AI and Cloud infrastructures supporting such intrests. I enjoy building efficient solutions and am eager to further explore and collaborate in tech that has value.
 
 - Currently focusing on: Computer Vision and AI-driven infrastructure.
 - Goal: To apply my skills in building meaningful solutions in the AI space.
@@ -50,7 +50,7 @@ I am a 6th-semester Computer Science student focused on the intersection of Comp
   <a href="mailto:emannihsan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="blank">
+  <a href="https://linkedin.com/in/eman-ihsan" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
